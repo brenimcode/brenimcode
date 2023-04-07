@@ -20,8 +20,8 @@ Hello World👋
 - 🔭 I’m currently learning C
 <div>
   <a href="https://github.com/brenimcode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenimcode&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenimcode&layout=compact&langs_count=16&theme=merko" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenimcode&show_icons=true&theme=radical&include_all_comits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenimcode&layout=compact&langs_count=16&theme=radical" />
 </div>
 
 <div style="display: inline_block"><br>
