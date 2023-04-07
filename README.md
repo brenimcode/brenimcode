@@ -20,9 +20,9 @@ Hello World👋
 - 🔭 I’m currently learning C
 <div>
   <a href="https://github.com/brenimcode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenimcode&show_icons=true&theme=highcontrast&include_all_comits=true&count_private=true"/>
-    <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenimcode&layout=compact&langs_count=16&theme=highcontrast" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brenimcode&show_icons=true&theme=highcontrast&include_all_comits=true&count_private=true"/>
+    
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenimcode&layout=compact&langs_count=16&theme=highcontrast" />
 </div>
 
 <div style="display: inline_block"><br>
