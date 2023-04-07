@@ -21,7 +21,7 @@ Hello World👋
 <div>
   <a href="https://github.com/brenimcode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenimcode&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenimcode&layout=compact&langs_count=16&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenimcode&layout=compact&langs_count=16&theme=merko" />
 </div>
 
 <div style="display: inline_block"><br>
