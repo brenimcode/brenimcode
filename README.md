@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=717171&center=true&vCenter=true&width=435&lines=Hello!+My+name+is+Breno+Oliveira!;Be+Welcome." alt="Typing SVG" /></a>
+</div>
 
 Hello World👋
 
