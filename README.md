@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 Hello World👋
 
-- 🔭 Estudando C
+- 🔭 I’m currently learning C
 <div>
   <a href="https://github.com/brenimcode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenimcode&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenimcode&layout=compact&langs_count=16&theme=omni" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenimcode&layout=compact&langs_count=16&theme=radical" />
 </div>
 
 <div style="display: inline_block"><br>
