@@ -2,7 +2,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=e7f216&center=true&vCenter=true&width=435&lines=Hi!+My+name+is+Breno!;Welcome." alt="Typing SVG" /></a>
 </div>
 
-Hello World👋
+Hello World👋  <div>
+    <a href="https://www.instagram.com/brenno.oliver" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  </div>
 
 - ⚡ I’m currently learning C
 - 🚀 Constant learning
@@ -24,7 +26,3 @@ Hello World👋
   <img align="center" alt="Breno-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
           
   ![snake gif](https://github.com/brenimcode/brenimcode/blob/output/github-contribution-grid-snake.svg)
-  
-  <div>
-    <a href="https://www.instagram.com/brenno.oliver" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  </div>
