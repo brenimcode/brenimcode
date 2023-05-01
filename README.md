@@ -39,4 +39,3 @@ Hello World👋
   
   <img align="center" alt="Breno-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
           
-![snake gif](https://github.com/brenimcode/brenimcode/blob/output/github-contribution-grid-snake.svg)
