@@ -1,6 +1,4 @@
 
-![ezgif com-optimize](https://github.com/brenimcode/Neps/assets/127551374/62bbd2b2-520f-4acd-94b3-0cae297b0fc2)
-
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=e7f216&center=true&vCenter=true&width=435&lines=Hi!+My+name+is+Breno!;Welcome." alt="Typing SVG" /></a>
 </div>
@@ -31,6 +29,5 @@
   <img align="center" alt="Breno-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" />
   -->
   
- 
-          
   ![snake gif](https://github.com/brenimcode/brenimcode/blob/output/github-contribution-grid-snake.svg)
+  ![ezgif com-optimize](https://github.com/brenimcode/Neps/assets/127551374/62bbd2b2-520f-4acd-94b3-0cae297b0fc2)
