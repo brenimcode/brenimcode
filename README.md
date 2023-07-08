@@ -1,6 +1,6 @@
-<div align ="right">
+
 ![ezgif com-optimize](https://github.com/brenimcode/Neps/assets/127551374/62bbd2b2-520f-4acd-94b3-0cae297b0fc2)
-</div>
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=e7f216&center=true&vCenter=true&width=435&lines=Hi!+My+name+is+Breno!;Welcome." alt="Typing SVG" /></a>
 </div>
