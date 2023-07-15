@@ -30,5 +30,5 @@
   -->
   
   ![snake gif](https://github.com/brenimcode/brenimcode/blob/output/github-contribution-grid-snake.svg)
-  ![ezgif com-resize (1)](https://github.com/brenimcode/brenimcode/assets/127551374/8a898791-3b17-40d8-a9e4-6f803e69b8fd)
+  
 
