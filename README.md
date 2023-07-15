@@ -8,7 +8,7 @@
   </div>
   
 
-- ⚡ I’m currently learning C
+- ⚡ I’m currently learning C++, JS
 - 🚀 Constant learning
 <div>
   <a href="https://github.com/brenimcode">
