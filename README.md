@@ -10,7 +10,7 @@
 
 - ⚡ I’m currently learning C++, JS
 - 🚀 Constant learning
-- [Acesse meus links](https://brenimcode.github.io/Projeto-Rocketseat/)
+- [DevLinks](https://brenimcode.github.io/Projeto-Rocketseat/)
 <div>
   <a href="https://github.com/brenimcode">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brenimcode&show_icons=true&theme=highcontrast&include_all_comits=true&count_private=true"/>
