@@ -29,7 +29,8 @@
   <img align="center" alt="Breno-HTML" height="40" width="50"    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
   <img align="center" alt="Breno-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" />
   -->
-  
+    <!--
   ![snake gif](https://github.com/brenimcode/brenimcode/blob/output/github-contribution-grid-snake.svg)
   
+    -->
 
