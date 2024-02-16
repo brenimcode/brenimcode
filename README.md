@@ -24,7 +24,7 @@
 
 
 <picture>
-  <source
+  <source>
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/brenimcode/output/github-contribution-grid-snake-dark.svg"
   />
