@@ -20,12 +20,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brenimcode&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=brenimcode&icon=6&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
-    <div style="display: inline_block"><br>
-    <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img align="center" alt="C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-    <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
