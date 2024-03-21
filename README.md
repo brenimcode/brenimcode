@@ -19,5 +19,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brenimcode&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{brenimcode}/count.svg" /></p> 
+<br></div>
 
 </div>
