@@ -7,7 +7,6 @@
 # 🌐 Socials:
 <div>
     <a href="https://www.linkedin.com/in/breno-cavalcante/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.youtube.com/@BrenoDev_Ufu" target="_blank"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://brenooliveira.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>
     
   </div>
