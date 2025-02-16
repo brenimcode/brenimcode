@@ -24,10 +24,3 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=brenimcode&theme=midnight-purple&hide_border=false)
----
-
-<div align="left">
-<br><h4 align="left"><b>Visitors Count</b></h4>
-<p align="center"><img align="left" src="https://profile-counter.glitch.me/{brenimcode}/count.svg" /></p> 
-<br>
-</div>
