@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=add8e6&center=true&vCenter=true&width=435&lines=Hi!+My+name+is+Breno!;Welcome." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=24&pause=1000&color=1658FF&width=500&lines=Hey+everyone!+I'm+Breno;I'm+a+computer+science+student;My+main+interests+are+..;Automation%2C+LLMs%2C+AI%2C+Dev" alt="Typing SVG" /></a>
 </div>
 
 <div>    
@@ -21,6 +21,3 @@
 
 #### **Competitive Programming**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=brenimcode&theme=midnight-purple&hide_border=false)
