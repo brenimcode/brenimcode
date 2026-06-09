@@ -7,7 +7,7 @@
 ## 🌐 Socials
 <div>
     <a href="https://www.linkedin.com/in/breno-cavalcante/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://brenooliveira.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=Google-Chrome&logoColor=white" target="_blank"></a>
+    <a href="https://brenocavalcante.com/" target="_blank"> <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=Google-Chrome&logoColor=white" target="_blank"></a>
 </div>
 
 ## 📜 Tech Stack
