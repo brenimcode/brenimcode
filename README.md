@@ -18,5 +18,5 @@
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/breno-cavalcante/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://brenocavalcante.com/" target="_blank"> <img src="https://img.shields.io/badge/Site Pessoal-FFF?style=for-the-badge&logo=Google-Chrome&logoColor=black" target="_blank"></a>
+  <a href="https://brenocavalcante.com/" target="_blank"> <img src="https://img.shields.io/badge/Site Pessoal-FFF?style=for-the-badge&logo=chrome&logoColor=black" target="_blank"></a>
 </div>
